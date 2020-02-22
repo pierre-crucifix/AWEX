@@ -2,7 +2,7 @@
 Web-scraped the whole database from The Wallonia Export-Investment Agency, cleaned it, and analyzed it to offer an insight of exportation in South of Belgium.
 
 Results:
-![alt text](https://github.com/pcrucifix/test/blob/master/Results.PNG "Logo Title Text 1")
+![alt text](https://github.com/pcrucifix/test/blob/master/Results.png "Logo Title Text 1")
 
 If you want to reuse the codes, use them in the following order:
 
