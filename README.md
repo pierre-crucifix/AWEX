@@ -8,12 +8,12 @@ Web-scraped the database from the Wallonia Export-Investment Agency, cleaned it,
 It is interesting to compare the above map with [this map of population density](https://www.iweps.be/indicateur-statistique/densite-de-population/) revealing similar trends.
 
 
-### Valuable collected data
+## Valuable collected data
 
 Legally retrieved 13,609 email addresses and 15,376 phone numbers from businesses of any size with an international vision.
 
 
-### Organization of the code
+## Organization of the code
 
 If you wish to reuse the codes, do it in the following order:
 
